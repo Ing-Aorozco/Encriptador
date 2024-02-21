@@ -1,0 +1,78 @@
+body{
+    font-family: 'Montserrat', sans-serif;}
+.caja{
+    
+        background-color: #F3F5FC;
+        position: top;
+        margin: 16 px;
+        padding: 24px 14px;
+    }
+.main {
+    background-color: #F3F5FC;
+    
+    
+   
+}
+.container{
+    background-color: #F3F5FC;
+    display: flex;
+    width: 100%;
+   
+}
+.textoEncriptado{
+    background-color: lightblue;
+    display: flex;
+    flex: 2;
+    height: 40vh;
+    align-items:  center;
+    justify-content: space-around;   
+}
+.campoTexto{
+    display: flex;
+    flex: 2;
+    height: 40vh;
+    border: none;
+    background-color: #F3F5FC;;
+}
+.campoMensaje{
+    
+    display: flex;
+    flex: 1;
+    height: 40vh;
+    background-color: #ffffff;
+    align-items:  center;
+    justify-content: space-around;   
+}
+.mensaje{
+    display: flex;
+    flex: 1;
+    height: 40vh;
+    border: none;
+    background-color: #FFFFFF;;
+}
+.btn{
+    margin: 1em 0 0;
+    padding: auto;
+   align-items: center;
+  background-color: #F3F5FC;
+    
+}
+.btnEncriptar{
+    background-color: #072B61;
+}
+.btnDesencriptar{
+    background-color: #ADB5BD
+}
+footer{
+    text-align: center;
+    background: #F3F5FC;
+    padding:40px;
+}
+
+.copyright{
+    color:#052051;
+    font-size: 13px;
+    margin:20px;
+}
+
+
